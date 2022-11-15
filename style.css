@@ -1,0 +1,25 @@
+.hv a:hover {
+  color: #00b388;
+}
+.has-bg-red {
+  background-color: #d50032;
+}
+.has-bg-green {
+  background-color: #00b388;
+}
+.has-bg-green-d {
+  background-color: #1e3932;
+}
+.content-right img {
+  max-width: 100%;
+}
+.bt-sb-red {
+  background-color: #d50032;
+}
+.bt-sb-green {
+  border: solid 1px black;
+  background-color: #00b388;
+}
+.bt-sb-green-d {
+  background-color: #1e3932;
+}
